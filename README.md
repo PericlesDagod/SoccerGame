@@ -1,2 +1,3 @@
 # SoccerGame
-test
+
+https://github.com/PericlesDagod/SoccerGame/wiki
